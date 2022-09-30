@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠 I’m currently working on:
+[Railsinstaller for windows](https://github.com/railsinstaller/railsinstaller-windows) - Easily install Ruby on Rails on windows.
