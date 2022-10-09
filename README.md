@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ## 🛠 I’m currently working on:
 [Railsinstaller for windows](https://github.com/robertmabbs/railsinstaller-windows) - Easily install Ruby on Rails on windows.
+[Railsinstaller website](https://github.com/robertmabbs/railsinstaller-website)
+[Railsinstaller website theme](https://github.com/robertmabbs/railsinstaller-website-theme)
